@@ -1,1 +1,1 @@
-这个软件
+这个软件的名字叫“picpick”，他的安装包太大了，有足足75.0 MB，超过GitHub上限了，所以你如果想下载的话，可以去官网自行下载：“https://picpick.app/zh/”,个人版本是免费下载的，那个就足够了( I'm so sorry to explain that the .exe file (it's 75.0 MB) is more than the Github File size limit, so you can browse the website "https://picpick.app/zh/" to upload the vital file if you really need it.The personal version is free.)
